@@ -18,16 +18,16 @@ Python can be used in database applications.
 * Book  Management
 * student Management
 
-  5. Book Catalogue Management
+5. Book Catalogue Management
 
 * Add new Book
 * Edit new Book
 * Delete new Book
 
-  6. Users Managment
+6. Users Managment
 
 * Ability to create, edit and remove user
 
-  7. Book Transactions
+7. Book Transactions
 
 * Ability to rent and retreive back books
